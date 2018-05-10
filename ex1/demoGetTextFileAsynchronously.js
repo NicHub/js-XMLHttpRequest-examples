@@ -5,7 +5,7 @@
   main();
 
   function main() {
-    getTextFileAsynchronously(displayPlainText, "https://raw.githubusercontent.com/NicHub/ouilogique.com/gh-pages/README.md");
+    getTextFileAsynchronously(displayPlainText, "coord.txt");
   }
 
   // Display the data.
