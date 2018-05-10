@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  width: 750px;
+  margin: 20px auto;
+}
+
+p#dataPlainText {
+  white-space: pre-line;
+  font-family: monospace;
+}
